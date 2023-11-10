@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480995849705",
+    "project_id": "semana08-64a4a",
+    "storage_bucket": "semana08-64a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480995849705:android:a3ce8fb411912ff7e20778",
+        "android_client_info": {
+          "package_name": "com.drodriguez0233.semana08"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxEt0DfsbbHIbk9QdHxXU3uoeiWII4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
